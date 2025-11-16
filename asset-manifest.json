@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/first_react.todo/static/js/main.a34fbd52.js",
+    "static/js/973.c5f90873.chunk.js": "/first_react.todo/static/js/973.c5f90873.chunk.js",
+    "index.html": "/first_react.todo/index.html",
+    "main.a34fbd52.js.map": "/first_react.todo/static/js/main.a34fbd52.js.map",
+    "973.c5f90873.chunk.js.map": "/first_react.todo/static/js/973.c5f90873.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a34fbd52.js"
+  ]
+}
