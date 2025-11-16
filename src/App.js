@@ -5,7 +5,7 @@ function App() {
 
   const addTodo = () => {
     if (input.trim() !== '') {
-      setTodos([...todos, { id: Date.now(), text: input, completed: false }]);
+      setTodos([...todos, { id: Date.now(), text: input }]);
       setInput('');
     }
   };
